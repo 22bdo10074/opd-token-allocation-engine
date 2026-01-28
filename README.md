@@ -1,3 +1,8 @@
+
+## Backend for this Assignment
+# Assignment: 
+Design and implement a token allocation system for hospital OPD that supports elastic 
+capacity management. 
 # OPD Token Allocation Engine
 
 ## Problem Overview
@@ -66,3 +71,11 @@ The simulation demonstrates correct prioritization and dynamic reallocation.
 ## How to Run
 ```bash
 uvicorn app.main:app --reload
+
+---
+
+## Open Swagger UI:
+
+http://127.0.0.1:8000/docs
+
+
