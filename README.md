@@ -72,10 +72,13 @@ The simulation demonstrates correct prioritization and dynamic reallocation.
 ```bash
 uvicorn app.main:app --reload
 
----
 
 ## Open Swagger UI:
 
 http://127.0.0.1:8000/docs
+```
 
+
+# Live on Render:
+https://opd-token-allocation-engine.onrender.com
 
